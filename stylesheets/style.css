@@ -884,6 +884,7 @@ h6 { font-size: 14px; line-height: 48px; font-weight: 400;}
 .vaca {
 	background-color: #dad588bd;
 	border-radius: 25px 60px 0px 60px;
+	/* justify-content: right; */
 	/* border-bottom-right-radius: 20px; */
 	border: #000;
 	padding: 10px;	
